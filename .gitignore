@@ -1,0 +1,16 @@
+# Zig build output and cache
+.zig-cache/
+zig-out/
+
+# OS/editor-related
+*.swp
+*.swo
+*~
+.vscode/
+.DS_Store
+
+# Optional: compiled object files or binaries if manually added
+*.o
+*.a
+*.exe
+
